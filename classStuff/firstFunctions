@@ -1,0 +1,40 @@
+from BirdBrain import Finch
+import time
+
+### First Functions ###
+
+
+#Code the Finch to draw a square using functions from the Finch library (hint: the only functions you should be using all start with "set")
+def draw_square():
+
+
+
+#Code the Finch to draw a triangle using functions from the Finch library (hint: the only functions you should be using all start with "set")
+def draw_triangle():
+
+
+
+#Code the finch to cycle through three different colors (hint: you might need to use a function from time!)
+def light_cycle():
+
+
+
+#Code the finch to cycle through some words on the MicroBit to create a longer sentence (remember the difference between Finch functions and built in Python Functions)
+def sentence_cycle(): 
+
+
+
+
+#Code the finch to use both light_cycle(), and sentence_cycle() at the same time
+def combo_cycle():
+
+
+
+#code the finch to sing a song using at least 5 different notes 
+def bird_song():
+
+
+
+#program a solution to make the Finch move through the in class maze, without touching the finch or the maze while the finch moves!
+def maze_solver():
+
